@@ -25,7 +25,7 @@ with open('requirements.txt', 'r') as reqs:
     requirements = reqs.read().split()
 
 setup(
-    name='tape_proteins',
+    name='bio_embeddings_tape_proteins',
     packages=find_packages(),
     version=get_version(),
     description="Repostory of Protein Benchmarking and Modeling",
