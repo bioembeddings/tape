@@ -51,7 +51,7 @@ setup(
         'Operating System :: POSIX :: Linux',
         'Intended Audience :: Developers',
         'Intended Audience :: Science/Research',
-        'Topic :: Scientific/Engineering :: Artificial Intelligence'
+        'Topic :: Scientific/Engineering :: Artificial Intelligence',
         'Topic :: Scientific/Engineering :: Bio-Informatics'
     ],
 )

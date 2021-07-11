@@ -1,4 +1,4 @@
-torch>=1.0,<1.8
+torch>=1.0,<1.10
 tqdm
 tensorboardX
 scipy
